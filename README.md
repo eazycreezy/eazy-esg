@@ -1,4 +1,4 @@
-# Eazy ESG
+# Eazy ESG by Isaiah Creencia
 
 **ESG reporting Assistant in Claude — GRI, TCFD, and ASRS frameworks.**
 
@@ -82,8 +82,8 @@ Upload data → Map to framework → Identify gaps → Draft report sections
 
 1. Download or clone this repository
 2. In the Claude desktop app, go to **Plugins** and select **Install from folder**
-3. Point it at the root of this repo
-4. The `eazy-esg` skill will appear automatically — start a new conversation and describe your ESG task
+3. Select the "eazy-esg" folder from wherever you saved it
+4. The `eazy-esg` skill will appear automatically — start a new conversation and describe your task
 
 No environment variables or external accounts required.
 
